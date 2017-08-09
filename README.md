@@ -1,0 +1,2 @@
+# manifest
+Laravel manifest handler
